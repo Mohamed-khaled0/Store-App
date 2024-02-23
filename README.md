@@ -7,43 +7,16 @@ This project represents the culmination of skills learned during my Flutter cour
 - Effective data handling.
 ## Screenshots 
 
+<p float="left">
+     <img src="https://github.com/Mohamed-khaled0/Store-App/assets/69611091/497f2eee-3dd5-4344-a51d-e245f2f3c709" alt="Image 0" width="250" style="display:inline; margin:5px;">
 
-## Key Features and Learnings
+  <img src="https://github.com/Mohamed-khaled0/Store-App/assets/69611091/99b226d5-292e-43c0-8956-f3e634fd4428" alt="Image 1" width="250" style="display:inline; margin:5px;">
+</p>
 
-### 1. API Interaction
-   - Used the `http` package to fetch data seamlessly from the API.
-   - Leveraged `FutureBuilder` to dynamically create widgets based on API responses.
+# Technologies Used:
+- Dart
+- Flutter
+- API (HTTP )
+- Postman (GET , POST , PUT) 
 
-### 2. Reusable Components
-   - Crafted a modular `CustomCard` widget for consistent and reusable product display.
-
-### 3. UI Design
-   - Designed a sleek home page UI with a customized app bar.
-   - Integrated a grid view for a visually appealing product display.
-   - Employed stack and positioned widgets for an aesthetically pleasing layout.
-
-### 4. Exception Handling
-   - Incorporated a loading indicator for a smoother user experience.
-   - Successfully handled exceptions and errors during API interactions.
-
-### 5. API Service
-   - Developed an `AllProductsService` for efficiently fetching all products.
-   - Implemented the display of products based on distinct categories.
-
-### 6. API Class and Requests
-   - Created a flexible `Api` class to handle various API requests.
-   - Successfully implemented GET, POST, and PUT requests for different functionalities.
-
-### 7. Model Implementation
-   - Defined the `ProductModel` and `RatingModel` to structure API response data.
-   - Utilized factory methods for parsing JSON data into model instances.
-
-## How to Use
-
-1. Ensure Flutter is installed on your machine.
-2. Clone this repository to your local environment.
-3. Run `flutter pub get` to fetch the dependencies.
-4. Launch the app on your preferred emulator or device.
-
-Feel free to explore and modify the code to enhance your Flutter skills further. Congratulations on completing this store app project, and best of luck with your future Flutter endeavors!
 
